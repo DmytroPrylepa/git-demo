@@ -9,10 +9,3 @@ Mention Sligo & Manorhamilton in text.
 
 test add two lines in april 01
 test add two lines in april 02
-
-  Statistics
-        Read error                           : 0
-        Jitter error (maybe fixed)           : 0
-        Retry sector count                   : 0
-        Damaged sector count                 : 0
-
