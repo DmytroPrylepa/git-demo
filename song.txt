@@ -9,6 +9,7 @@ Mention Sligo & Manorhamilton in text.
 
 test add two lines in april 01
 test add two lines in april 02
+<<<<<<< HEAD
 
   Statistics
         Read error                           : 0
@@ -22,3 +23,7 @@ test add two lines in april 02
         Damaged sector count                 : 1
 		----------------------------------------
 
+=======
+test add two lines in april 05
+test add two lines in april 06
+>>>>>>> 116e98cec6be585b54db3113ddb4d89ee4d248c9
