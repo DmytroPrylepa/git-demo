@@ -22,3 +22,8 @@ test add two lines in april 02
         Retry sector count                   : 1
         Damaged sector count                 : 1
 		----------------------------------------
+		Read error                           : 2
+        Jitter error (maybe fixed)           : 2
+        Retry sector count                   : 2
+        Damaged sector count                 : 2
+		========================================
