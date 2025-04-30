@@ -15,4 +15,10 @@ test add two lines in april 02
         Jitter error (maybe fixed)           : 0
         Retry sector count                   : 0
         Damaged sector count                 : 0
+		
+		Read error                           : 1
+        Jitter error (maybe fixed)           : 1
+        Retry sector count                   : 1
+        Damaged sector count                 : 1
+		----------------------------------------
 
