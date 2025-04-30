@@ -22,8 +22,3 @@ test add two lines in april 02
         Retry sector count                   : 1
         Damaged sector count                 : 1
 		----------------------------------------
-
-=======
-test add two lines in april 05
-test add two lines in april 06
->>>>>>> 116e98cec6be585b54db3113ddb4d89ee4d248c9
